@@ -536,7 +536,7 @@
   import navigation from '~/components/Navigation.vue';
   import team from '~/components/Team.vue';
   import StartProject from '~/components/StartProject.vue';
-  import pointer from '~/components/Pointer.vue';
+  import pointer from '~/components/pointer.vue';
   import turn from '~/components/Turn.vue';
   
  
